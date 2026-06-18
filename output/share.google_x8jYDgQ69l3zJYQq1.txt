@@ -1,0 +1,51 @@
+URL: https://share.google/x8jYDgQ69l3zJYQq1
+
+TITLE:
+Nutrition and supplement information you can trust
+
+MAIN HEADINGS:
+  1. Explore the evidence
+  2. Explore Examine content
+  3. Examine is built for everyone
+  4. ExamineAI
+  5. About Examine
+  6. Supplement Navigator New
+  7. Safety Checker Tool
+  8. Unlock Examine content for free
+  9. Examine Database
+  10. Research Feed
+  11. Supplement Guides
+
+IMPORTANT PARAGRAPHS:
+  - Examine analyzes and summarizes research to determine which supplements and non-pharmaceutical interventions work.
+Learn how to use Examine.
+  - Search by condition to find supplement efficacy, safety, and dosage information.
+  - Check supplement safety by reviewing supplement-drug interactions, side effects, population precautions, pregnancy/lactation risks, and more.
+  - Get efficacy data for supplements, health conditions, and outcomes.
+  - Read summaries of the latest studies across 25 categories, or pick the categories that matter most to you.
+  - Step-by-step directions on what supplements to take, how much, and when for specific health goals.
+  - See what the evidence shows.
+
+Information on Examine is organized into 26 health categories covering hundreds of conditions. Interventions like supplements and diets are evaluated based on measurable changes in specific outcomes like LDL and blood pressure.
+  - Optimizing Health and Performance
+  - Meet ExamineAI! Our chatbot exclusively uses material already published on Examine to answer your questions.
+Everything we publish is still human-made from start to finish, but now it’s more accessible than ever.
+  - Examine is the largest database of nutrition and supplement research on the internet.
+  - Founded in early 2011, Examine's mission is to analyze the full body of evidence to help you be healthier. As an educational organization, we are not affiliated with any supplement or food company, and our research team is contractually obligated to have no conflicts of interest.
+
+IMPORTANT LINKS:
+  - {'text': 'analyzes and summarizes research', 'url': 'https://examine.com/about/'}
+  - {'text': 'Learn how to use Examine', 'url': 'https://help.examine.com/help/how-to-use-examine'}
+  - {'text': 'Try for free', 'url': 'https://examine.com/clinician/'}
+  - {'text': 'Learn more', 'url': 'https://examine.com/clinician/'}
+  - {'text': 'pregnancy/lactation risks', 'url': 'https://examine.com/pregnancy-lactation/'}
+  - {'text': 'Open Safety Checker', 'url': 'https://examine.com/clinician/safety-checker/'}
+  - {'text': "Learn more about how Examine's evidence-based information helps you.", 'url': 'https://examine.com/membership/'}
+  - {'text': 'Explore Membership', 'url': 'https://examine.com/membership/'}
+  - {'text': 'Explore Database', 'url': 'https://examine.com/database/'}
+  - {'text': 'View Research Feed', 'url': 'https://examine.com/research-feed/'}
+  - {'text': 'Browse Guides', 'url': 'https://examine.com/guides/'}
+  - {'text': 'health categories', 'url': 'https://examine.com/categories/'}
+  - {'text': 'conditions', 'url': 'https://examine.com/conditions/'}
+  - {'text': 'supplements', 'url': 'https://examine.com/supplements/'}
+  - {'text': 'blood pressure', 'url': 'https://examine.com/outcomes/blood-pressure/'}
